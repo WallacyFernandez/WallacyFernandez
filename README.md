@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=427bfb&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=427bfb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+name+is+Wallacy+Fernandez;I'm+22+years+old;I+from+Brasil,+RN;I+study+programming+languages+at+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=427bfb&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Wallacy+Fernandez;I'm+22+years+old;I+from+Brasil,+RN;I+study+programming+languages+at+UFERSA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WallacyFernandez&show_icons=true&count_private=true&hide_border=true&title_color=427bfb&icon_color=427bfb&text_color=427bfb&bg_color=0d1117" alt="Wallacy Fernandez github stats" /> 
